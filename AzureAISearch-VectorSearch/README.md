@@ -21,3 +21,6 @@ In this lab, you will create a hybrid search solution that includes vector searc
 7. Query the REST API to get search results
 
 You can use the provided test data or bring your own data.
+
+## Lab Implementation
+Follow step-by-step instructions provided in the lab guide (AzureAISearch-Create Hybrid Search with vector search.pdf) to implement the lab scenario.
