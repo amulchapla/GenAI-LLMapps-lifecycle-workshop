@@ -12,10 +12,18 @@
  3. Test & evaluate RAG application using PromptFlow in Azure AI Studio.
  4. Deploy RAG application and consume it using REST API.
 
- Lab instructions and resources are provided in the respective folders.
-
-Diagram below depicts the Azure AI platform components used in the workshop scenarios.
+ Diagram below depicts the Azure AI platform components used in the workshop scenarios.
  <img src="common/images/azure_platform_workshop.png" align="center" />
+
+ ## Workshop hands-on labs Implementation Instructions
+ Lab instructions and resources are provided in the respective folders in this repo. 
+ 
+ [RECOMMENDED SEQUENCE] Follow the instructions in the folders to complete the labs.
+ 1. [Lab 0: Azure Environment Setup for the workshop](Environment-Preparation/Environment-Setup-For-Workshop.pdf)
+ 2. [Lab 1: Create a hybrid search solution using Azure AI Search](AzureAISearch-VectorSearch/AzureAISearch-CreateHybridSearch-with-VectorSearch.pdf)
+ 2. [Lab 2: Create a RAG application using PromptFlow in Azure AI Studio](RAGapp-PromptFlow/RAG-application-Promptflow.pdf)
+ 3. [Lab 3: Test & evaluate RAG application using PromptFlow in Azure AI Studio](LLMapp-Evaluation/Evaluate-LLMapps-using-AzureAIStudio.pdf)
+ 4. [Lab 4: Deploy RAG application and consume it using REST API](LLMapp-Deployment-Monitoring/Deploy-Monitor-LLMapps-AzureAIStudio.pdf)
 
  ## Workshop Prerequisites
  1. Azure subscription.

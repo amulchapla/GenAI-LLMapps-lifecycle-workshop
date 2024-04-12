@@ -23,4 +23,4 @@ In this lab, you will create a hybrid search solution that includes vector searc
 You can use the provided test data or bring your own data.
 
 ## Lab Implementation
-Follow step-by-step instructions provided in the lab guide (AzureAISearch-Create Hybrid Search with vector search.pdf) to implement the lab scenario.
+Follow step-by-step instructions provided in the lab guide (AzureAISearch-CreateHybridSearch-with-VectorSearch.pdf) to implement the lab scenario.
