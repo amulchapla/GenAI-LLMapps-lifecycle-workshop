@@ -1,6 +1,5 @@
-# GenAI-LLMapps-lifecycle-workshop
- Hands-on workshop for end-to-end LLM lifecycle using Azure AI platform.
-
+# LLM Application Development Lifecycle workshop
+ 
 ## Workshop Overview
  This workshop provides hands-on experience with the end-to-end lifecycle of Large Language Model (LLM) applications using Azure AI platform. The workshop covers the LLM application development lifecycle shown in the below diagram.
 
@@ -25,6 +24,7 @@ Diagram below depicts the Azure AI platform components used in the workshop scen
  4. Azure Storage account.
 
 ## Additional Resources
-- [Advance your maturity level for Large Language Model Operations (LLMOps)] (https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/concept-llmops-maturity)
-- [What is Azure AI Studio?] (https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio)
-- [Custom Conversation Copilot application using multimodal AI] (https://github.com/amulchapla/AI-Conversational-Copilot)
+- [Advance your maturity level for Large Language Model Operations (LLMOps)](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/concept-llmops-maturity)
+- [What is Azure AI Studio?](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio)
+- [What is Azure AI Search?](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
+- [Custom Conversation Copilot application using multimodal AI](https://github.com/amulchapla/AI-Conversational-Copilot)

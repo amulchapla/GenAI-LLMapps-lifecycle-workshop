@@ -1,5 +1,5 @@
 # Azure AI Search - Create a Hybrid Search Solution (including vector search)
- [Azure AI Search] (https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search) provides secure information retrieval at scale over user-owned content in traditional and generative AI search applications.
+ [Azure AI Search](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search) provides secure information retrieval at scale over user-owned content in traditional and generative AI search applications.
 
 Information retrieval is foundational to any app that surfaces text and vectors. Common scenarios include catalog or document search, data exploration, and increasingly chat-style apps over proprietary grounding data. When you create a search service, you work with the following capabilities:
 - A search engine for vector search and full text and hybrid search over a search index
